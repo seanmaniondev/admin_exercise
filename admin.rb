@@ -4,7 +4,7 @@ require 'pry'
 #..looking to purchase; you charge a fee to be listed as a vendor 
 #your site's users must sign in and if they are an admin they are able to make changes to the site
 
-#______________________________________________
+#######################################################
 
 #write a function "user_permission" that accepts four parameters: signed_in, admin, paid, and canceled
 #if the user doesn't pay their bills or has canceled a deal, show "go away!"
@@ -28,5 +28,4 @@ require 'pry'
 
 #store their answer in a variable
 
-
-
+#call the function 
