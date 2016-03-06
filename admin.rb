@@ -6,7 +6,7 @@ require 'pry'
 
 #######################################################
 
-#write a function "user_permission" that accepts four parameters: signed_in, admin, paid, and canceled
+#write a function "user_permission" that accepts four parameters: signed_in, admin, paid, and cancelled
 #if the user doesn't pay their bills or has canceled a deal, show "go away!"
 #if the user is signed in and they are an admin, show "you can see see and change all the pages!"
 #if you user is signed in but they are not an admin, show "you can see all the pages!"
